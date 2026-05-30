@@ -14,4 +14,4 @@ Python · R · SQL
 
 Thesis: tariff shock transmission through freight rates to equity returns and import volumes.
 
-[LinkedIn]([https://www.linkedin.com/in/pietromicara/]) · pietromicara@hotmail.com
+pietromicara@hotmail.com
