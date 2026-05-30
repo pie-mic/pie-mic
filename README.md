@@ -1,16 +1,19 @@
-## Hi there 👋
+# Pietro
 
-<!--
-**pie-mic/pie-mic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Financial Statistics @ LSE | BSc Economic & Social Sciences @ Bocconi
 
-Here are some ideas to get you started:
+Interested in quantitative finance, macro research, and private markets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- RL-based trading strategies (PPO, A2C, DQN, REINFORCE on LETFs) — ST455
+- Deep learning for limit order book mid-price prediction (DeepLOB, axial attention) — ST456
+
+## Tools
+Python (PyTorch, NumPy, pandas) · R · SQL · Git
+
+## Background
+Previously at Lazard (spring internship) and Innovis (VC analyst).
+Thesis: tariff shock transmission through freight rates to equity returns and import volumes.
+
+## Get in touch
+[LinkedIn](https://linkedin.com/in/yourprofile) · pietro@email.com
