@@ -1,19 +1,20 @@
 # Pietro
 
-MSc Financial Statistics @ LSE | BSc Economic & Social Sciences @ Bocconi
+MSc Financial Statistics @ LSE | BSc Economics @ Bocconi
 
-Interested in quantitative finance, macro research, and private markets.
+Interested in quantitative finance, macro research, and global markets.
 
 ## What I'm working on
-- RL-based trading strategies (PPO, A2C, DQN, REINFORCE on LETFs) — ST455
-- Deep learning for limit order book mid-price prediction (DeepLOB, axial attention) — ST456
+- RL-based trading strategies
+- Deep learning quant finance architectures
+- Stochastic calculus
+- Crypto risk platform
 
 ## Tools
-Python (PyTorch, NumPy, pandas) · R · SQL · Git
+Python · R · SQL
 
 ## Background
-Previously at Lazard (spring internship) and Innovis (VC analyst).
 Thesis: tariff shock transmission through freight rates to equity returns and import volumes.
 
 ## Get in touch
-[LinkedIn](https://linkedin.com/in/yourprofile) · pietro@email.com
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pietromicara/)) · pietromicara@hotmail.com
